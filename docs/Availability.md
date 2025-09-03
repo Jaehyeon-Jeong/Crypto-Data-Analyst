@@ -13,11 +13,11 @@
 
 | Day       | Availability (Local Time)       | Notes                          |
 |-----------|---------------------------------|--------------------------------|
-| Monday    | -                               | Available                      |
+| Monday    | -                               | N/A                            |
 | Tuesday   | 10:45–12:10(1h25m)              | Class                          |
 | Wednesday | 17:05–20:20(3h15m)              | Class                          |
 | Thursday  | 12:20–16:55(4h35m)              | Class                          |
-| Friday    | -                               | Available                      |
+| Friday    | -                               | N/A                            |
 | Saturday  | —                               | N/A                            |
 | Sunday    | —                               | N/A                            |
 
