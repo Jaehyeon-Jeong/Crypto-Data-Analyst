@@ -1,2 +1,1 @@
-# binance_application
-Binance internship application 
+**Availability:** See my recurring schedule and commitment in **[docs/availability.md](./docs/availability.md)**.
