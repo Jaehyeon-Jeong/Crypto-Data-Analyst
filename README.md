@@ -1,1 +1,1 @@
-**Availability:** See my recurring schedule and commitment in **[docs/availability.md](./docs/availability.md)**.
+**Availability:** See my recurring schedule and commitment in **[docs/availability.md](./docs/Availability.md)**.
