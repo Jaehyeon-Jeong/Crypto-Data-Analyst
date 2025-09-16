@@ -1,4 +1,4 @@
-# 📊 Jaehyeon Jeong's Data Portfolio
+# 📊 Jaehyeon Jeong's Data Analyst Portfolio
 
 Welcome! I'm a 4th-year Computer Science & Applied Mathematics student This portfolio highlights practicing Python, SQL, Tableau, and more
 
