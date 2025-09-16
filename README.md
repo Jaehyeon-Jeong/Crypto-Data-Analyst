@@ -18,46 +18,32 @@ It combines **ETL pipelines, SQL/GraphQL queries, on-chain dashboards, and token
 
 ---
 
-## 🗂️ Repository Map
+# 📊 Repository Map — Crypto Data Analyst
 
 ### 1. Python & SQL Practice
 - `python_practice/`: LeetCode solutions (easy → hard), Green Book quant interview problems.
 - `sql_practice/`: SQL query problems from LeetCode.
-  
-### 2. ETL Pipelines (`etl/`)
-- Binance REST API → fetch historical & live trade/klines data.
-- GraphQL queries (Uniswap Subgraph, others) → fetch pool metrics, liquidity, volume.
-- Data stored in **Parquet/CSV** for analytics.
-- Example: `etl_binance.py` → pulls BTCUSDT 1m klines for last 7 days → saves as Parquet.
 
-### 3. SQL & Queries (`queries/`)
-- SQL queries (DuckDB/ClickHouse) for aggregated analytics:
-  - Average spreads by hour.
-  - Daily trading volume.
-  - Wallet activity summaries.
-- GraphQL queries → pool fees, TVL, token swaps.
+### 2. ETL Pipelines
+- `etl/`: Python scripts for **data ingestion & transformation**.  
+- Demonstrates **ETL, API integration, data cleaning**.  
 
-### 4. Dashboards (`dashboards/`)
-- **Tableau Dashboards**:
-  - OHLC + volume visualization from Binance API data.
-  - User growth / wallet activity trends.
-- **Dune Dashboards**:
-  - DEX volume & liquidity.
-  - Stablecoin flow analysis.
-- Screenshots in `images/` + live links provided.
+### 3. SQL & Query Work
+- `queries/`: SQL queries (DuckDB/ClickHouse) + GraphQL examples.  
+- Demonstrates **data modeling, querying, reporting**.  
 
-### 5. Tokenomics Reports (`reports/`)
-- Research-style writeups analyzing:
-  - Protocol tokenomics (supply emissions, FDV vs float).
-  - Holder concentration (whales vs retail).
-  - Liquidity mining incentives.
-- Each report = Markdown/PDF with visuals.
+### 4. Dashboards & Visualization
+- `dashboards/`: Interactive visualizations.  
+- Demonstrates **business intelligence, storytelling, visualization**.  
 
-### 6. Exploratory Notebooks (`notebooks/`)
-- Jupyter notebooks for:
-  - Cleaning + aggregating Binance data.
-  - Feature extraction (volatility, volume spikes).
-  - On-chain metric analysis.
+### 5. Tokenomics Research & Reports
+- `reports/`: Research-style briefs (Markdown/PDF).  
+- Demonstrates **research communication & DeFi knowledge**.  
+
+### 6. Exploratory Analysis Notebooks
+- `notebooks/`: Jupyter notebooks for ad-hoc analysis.  
+- Demonstrates **data exploration, experimentation, reproducibility**.  
+
 
 ---
 
