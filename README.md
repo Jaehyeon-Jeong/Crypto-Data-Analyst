@@ -23,7 +23,7 @@ It combines **ETL pipelines, SQL/GraphQL queries, on-chain dashboards, and token
 ### 1. Python & SQL Practice
 - `python_practice/`: LeetCode solutions (easy → hard), Green Book quant interview problems.
 - `sql_practice/`: SQL query problems from LeetCode.
-- 
+  
 ### 2. ETL Pipelines (`etl/`)
 - Binance REST API → fetch historical & live trade/klines data.
 - GraphQL queries (Uniswap Subgraph, others) → fetch pool metrics, liquidity, volume.
