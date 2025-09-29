@@ -44,17 +44,6 @@ It combines **ETL pipelines, SQL/GraphQL queries, on-chain dashboards, and token
 - `notebooks/`: Jupyter notebooks for ad-hoc analysis.  
 - Demonstrates **data exploration, experimentation, reproducibility**.  
 
-
----
-
-## 📈 Weekly Progress
-
-| Week | Python LeetCode | SQL LeetCode | ETL | Dashboards | Reports | Notes |
-|------|-----------------|--------------|-----|------------|---------|-------|
-| 1    | 10 problems     | 5 problems   | Binance API script | Tableau basics | - | Setup |
-| 2    | 15 problems     | 10 problems  | GraphQL subgraph  | Dune dashboard | Tokenomics note | - |
-| 3    | 20 problems     | 15 problems  | Automated ETL job | Tableau + Dune v2 | Full report draft | - |
-
 ---
 
 ## 🔗 Related Portfolio
