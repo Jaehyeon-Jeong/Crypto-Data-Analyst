@@ -47,4 +47,4 @@ It combines **ETL pipelines, SQL/GraphQL queries, on-chain dashboards, and token
 ---
 
 ## 🔗 Related Portfolio
-- [Quant Researcher Repo](https://github.com/yourusername/quant-researcher) → Probability, Statistics Backtests, LOB features, ML models, Kaggle-style projects.
+- [Quant Researcher Repo](https://github.com/Jaehyeon-Jeong/quant-researcher) → Probability, Statistics Backtests, LOB features, ML models, Kaggle-style projects.
